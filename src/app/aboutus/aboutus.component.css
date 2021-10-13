@@ -1,0 +1,10 @@
+.au p{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+body{
+    background-color: darkslategrey;
+    color: darkturquoise;
+}
